@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>学习使我快乐</description>
-    <pubDate>Fri, 16 Feb 2024 14:31:22 GMT</pubDate>
+    <pubDate>Sun, 18 Feb 2024 10:39:04 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,7 +22,7 @@
       
       
       
-      <content:encoded><![CDATA[<p>看书<a href="https://www.baidu.com/">百度一下，你就知道 (baidu.com)</a></p> <span id="more"></span><p>非常不错</p><p>百度：<a href="https://www.baidu.com/">百度一下，你就知道 (baidu.com)</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>看书<a href="https://www.baidu.com/">百度一下，你就知道 (baidu.com)</a></p> <span id="more"></span><p>非常不错</p><p>百度：<a href="https://www.baidu.com/">百度一下，你就知道 (baidu.com)</a></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span></span><br></pre></td></tr></table></figure><p>代码：<code>git clone</code></p>]]></content:encoded>
       
       
       
